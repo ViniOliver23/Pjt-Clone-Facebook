@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: rgb(231, 231, 252);
+}
+h1{
+    text-align: left;
+    text-decoration: none;
+    margin-left:160px;
+    margin-right:400px;
+    font-size: 40px;
+}
+h3{
+    font-size:12px;
+    color: rgb(52, 29, 185);
+}
+form{
+    margin-right: 20px;
+}
+
+#campo  {
+
+    
+    background-color: rgb(52, 29, 185);
+    text-decoration-color: white;
+    text-align: left;
+    color: white;
+    font-size: 9px;
+    padding-top: 11px;
+    padding-bottom: 10px;
+    padding-right: 20px;
+}
+
